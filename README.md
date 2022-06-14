@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&customColorList=27&height=300&section=header&text=SunyoungKwon%20&fontColor=FFFFFF&fontSize=80&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&customColorList=27&height=300&section=header&text=SunyoungKwon%20&fontColor=FFFFFF&fontSize=90&fontAlignY=40)
 <h3 align="center">⚒ Tech Stack ⚒</h3>
 <p align="center"> Techs that I've used at least once !</p>
 
