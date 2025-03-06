@@ -30,7 +30,7 @@ I have a strong background in **React Native & Expo for cross-platform mobile ap
 ## 💻 Tech Stacks  
 
 ### ✔️ Language & Framework  
-<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&amp;logo=Expo&amp;logoColor=white"> <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&amp;logo=React&amp;logoColor=black"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&amp;logo=Expo&amp;logoColor=white"> <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&amp;logo=React&amp;logoColor=black"> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
 
 ### ✔️ Database  
 <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white">  
