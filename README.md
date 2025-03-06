@@ -32,8 +32,7 @@ I have a strong background in **React Native & Expo for cross-platform mobile ap
 ### ✔️ Language & Framework  
 
 #### 🏗️ **Now Using**  
-<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&amp;logo=Expo&amp;logoColor=white">  
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&amp;logo=React&amp;logoColor=black">  
+<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&amp;logo=Expo&amp;logoColor=white"> <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&amp;logo=React&amp;logoColor=black">  
 
 #### 🔥 **I Can**  
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">  
