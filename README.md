@@ -10,7 +10,7 @@ I am passionate about **learning and adopting new technologies** and enjoy colla
   - Develops modern web applications using React, Next.js, TypeScript, and Tailwind CSS  
   - Builds cross-platform mobile apps with React Native & Expo, integrating native features and optimizing performance  
   - Crafts intuitive UI/UX for seamless user interaction
-  - 
+    
 - **Business & Communication**  
   - Understands core business logic and proposes innovative solutions  
   - Collaborates effectively with developers, designers, and product managers 
