@@ -1,29 +1,28 @@
 ## 👋 About Me  
 
 I am a **developer who understands business and drives growth** beyond just writing code.<br/>  
-With expertise in **web and mobile frontend development**, I focus on creating seamless user experiences and optimizing services for better engagement.<br/>  
-I have a strong background in **React Native & Expo for cross-platform mobile app development**, allowing me to build efficient and scalable applications.  
+I specialize in **frontend development that optimizes user experience across web and mobile platforms**, ensuring seamless and intuitive interactions.<br/>  
+I am passionate about **learning and adopting new technologies** and enjoy collaborating with teams to build better products through effective communication.
 
 ## 🚀 What I Do  
 
 - **Frontend & Mobile Development**  
-  - Develop **modern web applications** using React, Next.js, TypeScript, and Tailwind CSS  
-  - **Build cross-platform mobile apps** with React Native & Expo, integrating native features and optimizing performance  
-  - Craft intuitive UI/UX for seamless user interaction  
-
+  - Develops modern web applications using React, Next.js, TypeScript, and Tailwind CSS  
+  - Builds cross-platform mobile apps with React Native & Expo, integrating native features and optimizing performance  
+  - Crafts intuitive UI/UX for seamless user interaction
+  - 
 - **Business & Communication**  
-  - Understand core business logic and propose innovative solutions  
-  - Collaborate effectively with developers, designers, and product managers  
+  - Understands core business logic and proposes innovative solutions  
+  - Collaborates effectively with developers, designers, and product managers 
 
 - **Product Thinking**  
-  - Focus on more than just feature implementation—**identify what the service truly needs and enhance it**  
-  - Analyze user data and suggest solutions to drive business growth  
+  - Focuses on more than just feature implementation—identifies what the service truly needs and enhances it  
+  - Analyzes user data and suggests solutions to drive business growth  
 
 ## 💡 My Values  
-
-- **User-Centric UI/UX**: Designing intuitive and visually appealing interfaces  
-- **Effective Communication**: Enhancing collaboration for better results  
-- **Business Growth**: Understanding the bigger picture and finding ways to improve products  
+- **User-Centric UI/UX**: Focuses on designing intuitive and visually appealing interfaces to enhance user experience  
+- **Effective Communication**: Prioritizes seamless collaboration to achieve better outcomes  
+- **Business Growth**: Understands the bigger picture and continuously seeks ways to improve products and services  
 
 ---
 
