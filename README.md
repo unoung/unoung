@@ -6,7 +6,7 @@ I am passionate about **learning and adopting new technologies** and enjoy colla
 
 ## 🚀 What I Do  
 
-- **Frontend & Mobile Development**  
+- **Web & Mobile Frontend Development**  
   - Develops modern web applications using React, Next.js, TypeScript, and Tailwind CSS  
   - Builds cross-platform mobile apps with React Native & Expo, integrating native features and optimizing performance  
   - Crafts intuitive UI/UX for seamless user interaction
